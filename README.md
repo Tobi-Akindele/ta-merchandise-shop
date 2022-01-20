@@ -1,1 +1,1 @@
-# ta-merchandise-frontend
+# ta-merchandise-frontend shop
